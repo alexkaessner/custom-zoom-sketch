@@ -2,6 +2,9 @@ import sketch from 'sketch'
 // documentation: https://developer.sketchapp.com/reference/api/
 
 export default function() {
+	const doc = sketch.getSelectedDocument()
+  const selectedLayers = doc.selectedLayers
+  const selectedCount = selectedLayers.length
 	var zoomLevel = 1.0
 
 	// ask user for input
@@ -27,6 +30,10 @@ export default function() {
 		sketch.UI.message('Please choose a valid zoom level.')
 	} else {
 		context.document.setZoomValue(zoomLevel/100)
+
+		if (selectedCount >= 1) {
+			doc.centerOnLayer(selectedLayers.layers[0])
+		}
 	}
 
 }
