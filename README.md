@@ -3,6 +3,8 @@
 
 Custom Zoom is a small plugin that allows you to zoom to any custom zoom level you want. From exactly 42% to 50.000% – everything is possible!
 
+[![Download](https://img.shields.io/badge/download-FREE-brightgreen.svg?style=for-the-badge)](../../releases/latest/download/custom-zoom-sketch.sketchplugin.zip)
+
 ## Installation
 
 - [Download](../../releases/latest/download/custom-zoom-sketch.sketchplugin.zip) the latest release of the plugin
