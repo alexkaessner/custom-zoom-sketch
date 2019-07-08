@@ -3,13 +3,13 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
+      "name": "Zoom to …",
       "identifier": "custom-zoom-sketch.my-command-identifier",
       "script": "./my-command.js"
     }
   ],
   "menu": {
-    "title": "custom-zoom-sketch",
+    "title": "🔍 Custom Zoom",
     "items": [
       "custom-zoom-sketch.my-command-identifier"
     ]
