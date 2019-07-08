@@ -6,10 +6,10 @@
   "engines": {
     "sketch": ">=53.0"
   },
-	"repository" : {
-		"type": "git",
-		"url": "git+https://github.com/alexkaessner/custom-zoom-sketch.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkaessner/custom-zoom-sketch.git"
+  },
   "skpm": {
     "name": "custom-zoom-sketch",
     "manifest": "src/manifest.json",
