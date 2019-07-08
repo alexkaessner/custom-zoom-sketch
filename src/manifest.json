@@ -1,17 +1,21 @@
 {
+	"name": "Custom Zoom",
+	"identifier": "de.alexkaessner.custom-zoom-sketch",
+	"homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
+	"appcast": "",
   "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
   "commands": [
     {
       "name": "Zoom to …",
-      "identifier": "custom-zoom-sketch.my-command-identifier",
-      "script": "./my-command.js"
+      "identifier": "custom-zoom-sketch.zoom-to",
+      "script": "./zoom-to.js"
     }
   ],
   "menu": {
     "title": "🔍 Custom Zoom",
     "items": [
-      "custom-zoom-sketch.my-command-identifier"
+      "custom-zoom-sketch.zoom-to"
     ]
   }
 }
