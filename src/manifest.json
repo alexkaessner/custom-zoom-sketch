@@ -1,10 +1,14 @@
 {
 	"name": "Custom Zoom",
+	"description": "",
+	"author": "",
+	"version": "",
 	"identifier": "de.alexkaessner.custom-zoom-sketch",
 	"homepage": "https://github.com/alexkaessner/custom-zoom-sketch",
 	"appcast": "",
   "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
+  "compatibleVersion": "53",
   "commands": [
     {
       "name": "🔍 Zoom to …",
