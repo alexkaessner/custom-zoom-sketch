@@ -7,13 +7,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "Zoom to …",
+      "name": "🔍 Zoom to …",
+      "shortcut": "control Z",
       "identifier": "custom-zoom-sketch.zoom-to",
       "script": "./zoom-to.js"
     }
   ],
   "menu": {
     "title": "🔍 Custom Zoom",
+    "isRoot": true,
     "items": [
       "custom-zoom-sketch.zoom-to"
     ]
