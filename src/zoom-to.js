@@ -29,7 +29,7 @@ export default function() {
 	if (zoomLevel == '' || zoomLevel < 1) {
 		sketch.UI.message('Please choose a valid zoom level.')
 	} else {
-		context.document.setZoomValue(zoomLevel/100)
+		context.document.canvasView().zoomValue = zoomLevel/100
 
 		if (selectedCount >= 1) {
 			doc.centerOnLayer(selectedLayers.layers[0])
