@@ -1,7 +1,7 @@
 {
   "name": "custom-zoom-sketch",
   "description": "Zoom your document to a custom zoom level.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Alexander Käßner",
   "engines": {
     "sketch": ">=53.0"
