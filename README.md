@@ -1,5 +1,5 @@
 # Custom Zoom for Sketch
-[![latest release](https://img.shields.io/github/release/alexkaessner/custom-zoom-sketch.svg)](https://github.com/alexkaessner/custom-zoom-sketch/releases/latest) [![Total downloads](https://img.shields.io/github/downloads/alexkaessner/custom-zoom-sketch/total.svg)](https://github.com/alexkaessner/custom-zoom-sketch/releases/latest) ![minimal requirements](https://img.shields.io/badge/requires-Sketch%2053%20or%20newer-orange.svg)
+![Sketch Version](https://img.shields.io/badge/Sketch-v53%20or%20newer-f7b500?logo=sketch) [![latest release](https://img.shields.io/github/release/alexkaessner/custom-zoom-sketch.svg)](https://github.com/alexkaessner/custom-zoom-sketch/releases/latest) [![Total downloads](https://img.shields.io/github/downloads/alexkaessner/custom-zoom-sketch/total.svg)](https://github.com/alexkaessner/custom-zoom-sketch/releases/latest)
 
 Custom Zoom is a small plugin that allows you to zoom to any custom zoom level you want. From exactly 42% to 50,000% – everything is possible!
 
